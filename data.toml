@@ -1,6 +1,6 @@
 name = "NOYAL MARTIN"
-description = "Accomplished actor, captivating with versatility and charisma."
-keywords = "Jake Gyllenhaal, actor, filmography, awards, versatile performances, Hollywood"
+description = "Computer Science Engineer."
+keywords = "python, html"
 image = "jake.webp"
 theme = "dark"
 primary_color = "#d81b60"
@@ -8,8 +8,8 @@ text_align = "center"
 gtag_id = "G-33WB8LVHR6"
 
 [[sections]]
-title = "Movies"
-description = "Here are some of my movies"
+title = "Projects"
+description = "Here are some of my projects"
 [[sections.items]]
 title = "Nightcrawler"
 description = "A mesmerizing thriller delving into the dark world of crime journalism"
